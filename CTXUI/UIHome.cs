@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +19,7 @@ using InjectionLibrary;
 using JLibrary.PortableExecutable;
 namespace CTXUI
 {
-    //                   Developer/Coder : W4H9LT
+    //                   Developer/Coder : PlutonLib SepulTura Shaggy
     public partial class UIHome : Form
     {
         int Move;
