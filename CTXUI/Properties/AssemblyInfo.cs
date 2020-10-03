@@ -1,17 +1,17 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Developer/Coder;W4H9LT")]
-[assembly: AssemblyDescription("Developer/Coder;W4H9LT")]
+[assembly: AssemblyTitle("Developer/Coder;PlutonLib SepulTura Shaggy")]
+[assembly: AssemblyDescription("Developer/Coder;PlutonLib SepulTura Shaggy")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Developer/Coder;W4H9LT")]
-[assembly: AssemblyProduct("Developer/Coder;W4H9LT")]
-[assembly: AssemblyCopyright("Developer/Coder;W4H9LT")]
-[assembly: AssemblyTrademark("Developer/Coder;W4H9LT")]
+[assembly: AssemblyCompany("Developer/Coder;PlutonLib SepulTura Shaggy")]
+[assembly: AssemblyProduct("Developer/Coder;PlutonLib SepulTura Shaggy")]
+[assembly: AssemblyCopyright("Developer/Coder;PlutonLib SepulTura Shaggy")]
+[assembly: AssemblyTrademark("Developer/Coder;PlutonLib SepulTura Shaggy")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 
